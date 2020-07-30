@@ -1,0 +1,31 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <DocsAndViews NumberOfDocuments="1" >
+  <Doc0 NumberOfViews="1" URL="file:///mnt/Linux/k3dsurf-0.6.1/src/k3dsurf.ui.h" >
+   <View0 line="11047" Type="Source" />
+  </Doc0>
+ </DocsAndViews>
+ <pluginList>
+  <kdevdebugger>
+   <breakpointList>
+    <breakpoint0 location="/root/Desktop/k3dsurf-0.5.5/src/Model3D.cpp:3559" type="1" tracingFormatString="" traceFormatStringEnabled="0" condition="" tracingEnabled="0" enabled="1" >
+     <tracedExpressions/>
+    </breakpoint0>
+   </breakpointList>
+  </kdevdebugger>
+  <kdevbookmarks>
+   <bookmarks>
+    <bookmark url="/root/Desktop/k3dsurf-0.5.5/src/k3dsurf.ui.h" >
+     <mark line="1971" />
+    </bookmark>
+   </bookmarks>
+  </kdevbookmarks>
+  <kdevvalgrind>
+   <executable path="" params="" />
+   <valgrind path="/usr/bin/valgrind" params=" --leak-check=yes" />
+   <calltree path="calltree" params="" />
+   <kcachegrind path="/usr/bin/kcachegrind" />
+  </kdevvalgrind>
+ </pluginList>
+</KDevPrjSession>
